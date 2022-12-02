@@ -9,10 +9,20 @@
 <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="100" height="100">
 </div>
 
-- **NetBeans** : Environement de développement intégré (IDE) utilisé pour ce projet
-- **HTML** : Langage de description utilisé pour concevoir les pages web
-- **CSS** : Langage de style utilisé pour mettre en forme les pages web
-- **Bootstrap** : Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
-- **Git** : Logiciel de gestion de version
-- **GitHub** : Forge logicielle en ligne utilisant Git
-
+ - **NetBeans** : Environement de développement intégré (IDE) utilisé pour ce projet
+ - **HTML** : Langage de description utilisé pour concevoir les pages web
+ - **CSS** : Langage de style utilisé pour mettre en forme les pages web
+ - **Bootstrap** : Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
+ - **Git** : Logiciel de gestion de version
+ - **GitHub** : Forge logicielle en ligne utilisant Git
+2. Pour l'epreuve E4
+ - Je me présente et présente mon parcours, j'affiche mon CV
+ - Je parle des projets réalisé, je bascule sur les pages correspondantes
+ - Je parle des stages que j'ai effectué et des prjoets auxquels j'ai participé, je bascule sur les pages correspondantes
+ - Je présentes la façon dont j'organise ma veille et la façon dont je m'en sert
+   - Respect des normes et des standards
+   - Auto-Formation
+   - Mise en oeuvre des tests (initaires, d'integration, fonctionnels, ...)
+   - Documentation
+   - Gestion de version, développement collaboratif et gestion d'incidents
+ - Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
