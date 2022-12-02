@@ -32,4 +32,6 @@
  - J'héberrge le code source de mes PPE
  - J'héberge mes productions (compte-rendus, documentations techniques, documentation utilisateurs, ...)
  - J'ajoute des liens vers les application téléchargeables ou testables en ligne
-
+4. Pour mon identité numerique
+ - Cela fait un point d'entrée professionnel à donner lorsque je postule à un stage, à une poursuite d'études ou à un emploi
+ - Cela permettra de me faire référencer par les moteurs de recherches (là aussi si on me recherche suite à ma rencontre ou à la reception de mon CV)
