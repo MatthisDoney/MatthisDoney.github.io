@@ -7,3 +7,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : matthis.doney
 */
 
+#presentation {
+    display: flex;
+    flex-direction: row;
+}
+#boutonpresentation {
+    margin-top: 0px;
+}
