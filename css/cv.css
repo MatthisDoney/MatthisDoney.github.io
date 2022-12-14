@@ -54,6 +54,9 @@ body {
     content: '';
     display: block;
 }
+#rouge {
+    color: red;
+}
 .rubrique { margin-bottom: 15px; }
 .rubrique h2 { color: rgb(226,0,26);
 text-align: left;}
